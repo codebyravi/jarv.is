@@ -6226,10 +6226,10 @@ posix-character-classes@^0.1.0:
   resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-0.1.1.tgz#01eac0fe3b5af71a2a6c02feabb8c1fef7e00eab"
   integrity sha1-AerA/jta9xoqbAL+q7jB/vfgDqs=
 
-postcss-clean@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/postcss-clean/-/postcss-clean-1.1.0.tgz#c2d61d5d8caf19a585adba16897726c2674c4207"
-  integrity sha512-83g3GqMbCM5NL6MlbbPLJ/m2NrUepBF44MoDk4Gt04QGXeXKh9+ilQa0DzLnYnvqYHQCw83nckuEzBFr2muwbg==
+postcss-clean@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/postcss-clean/-/postcss-clean-1.2.2.tgz#7b44303dcecbc2b29a70ed18d22af427203fa256"
+  integrity sha512-DpuMWW19Dd2K9KY4wknMz3khq9q2yZYa2U37bnhzdtBdBv0ggIfUj5T2XD3ir6gKVlDkb5OtOqw1iQJWq6qvpw==
   dependencies:
     clean-css "^4.x"
     postcss "^6.x"

@@ -8001,10 +8001,10 @@ tunnel-agent@^0.6.0:
   dependencies:
     safe-buffer "^5.0.1"
 
-twemoji-emojis@13.0.1:
-  version "13.0.1"
-  resolved "https://registry.yarnpkg.com/twemoji-emojis/-/twemoji-emojis-13.0.1.tgz#9353164a0639aee684cc5ed59bc3211e94c69a11"
-  integrity sha512-IqhxUzCLvqZ1aEFPZSnAA6d9k4e+pYb811Twfvy1XqcnmpM7GpCSq+2WGvB1Xx31nEcLwIQsUj42xahqhc8LHg==
+twemoji-emojis@13.1.0:
+  version "13.1.0"
+  resolved "https://registry.yarnpkg.com/twemoji-emojis/-/twemoji-emojis-13.1.0.tgz#5c915d1684b3a4b84fd3e161924a9473dcf3e996"
+  integrity sha512-ESJmUGgQFaPvNb+PZniFEpAXTL6My4+dJVPHTl+5kW/eDz0tPQONHXB0E7mpiPiLbU84av9q7/s1Yr7I2N2Hfg==
   dependencies:
     del-cli "^3.x"
     download-cli "^1.x"

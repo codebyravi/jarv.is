@@ -72,7 +72,7 @@
     "terser": "^5.3.1"
   },
   "optionalDependencies": {
-    "imagemin-cli": "^6.0.0",
+    "imagemin-cli": "^7.0.0",
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegoptim": "^7.0.0",
     "imagemin-pngquant": "^9.0.1",

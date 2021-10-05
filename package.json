@@ -40,7 +40,7 @@
     "uuid": "^8.3.0"
   },
   "devDependencies": {
-    "autoprefixer": "^9.8.6",
+    "autoprefixer": "^9.8.8",
     "cross-env": "^7.0.2",
     "eslint": "~7.9.0",
     "eslint-config-prettier": "~6.11.0",

@@ -5544,9 +5544,9 @@ netlify-plugin-cache@*:
   integrity sha512-CTOwNWrTOP59T6y6unxQNnp1WX702v2R/faR5peSH94ebrYfyY4zT5IsRcIiHKq57jXeyCrhy0GLuTN8ktzuQg==
 
 netlify-plugin-debug-cache@*:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/netlify-plugin-debug-cache/-/netlify-plugin-debug-cache-1.0.3.tgz#fb90f8b500aa979632bf2b82d865e868e83f67e4"
-  integrity sha512-0CdIYhw7zdjvpWsaJrT9iLia++NNuB9K9YPzC3FRBwKYEcf+EGlfJzRdhcHPs+5hFrD8JyIWO0058ZgLvjPtDw==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/netlify-plugin-debug-cache/-/netlify-plugin-debug-cache-1.0.4.tgz#bd10695a36023d66a417f227cb95fde07c0488f1"
+  integrity sha512-a9yBPnQlsDaNO8iPiSVxpiFnz3gj8BkhXRwT6bshLMCQRVezf/uIChTB55L675t6mZj+U4PwVIc7u8X2Ptc2Fw==
   dependencies:
     make-dir "^3.1.0"
 

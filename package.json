@@ -35,7 +35,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "normalize.css": "8.0.1",
-    "twemoji": "13.0.1",
+    "twemoji": "14.0.2",
     "twemoji-emojis": "13.0.1",
     "uuid": "^8.3.0"
   },
